@@ -1,0 +1,10 @@
+1) There will be an error message
+2) The computer will print a description of the function pow
+3) Write from math import pi first
+4) There will be an error message
+5) 7
+6) 3.0
+7) print(math.sqrt(36)) print(100 / 10) print(4.4 + 3.6)
+8) print(pow(5, 2)) print(5 * 5) print(5 ** 2)
+9) -2
+10) Select all

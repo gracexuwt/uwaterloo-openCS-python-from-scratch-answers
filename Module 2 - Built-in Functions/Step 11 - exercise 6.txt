@@ -1,0 +1,1 @@
+print("mystery"[-1] + "mystery"[-6:-1] + "mystery"[0])

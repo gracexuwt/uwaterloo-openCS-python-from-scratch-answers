@@ -1,0 +1,11 @@
+1) 11
+2) There will be an error message
+3) "52weeks"
+4) There will be an error message
+5) "hat"[1] "hat"[1:2]
+6) "caterpillar"[5:9]
+"caterpillar"[5] + "caterpillar"[6] + "caterpillar"[7] + "caterpillar"[8]
+7) "TESTING 1, 2, 3."
+8) None of the above.
+9) 3
+10) print(math.trunc(10.3)) print(math.floor(10.3)) print(int(10.3))

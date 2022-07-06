@@ -1,0 +1,1 @@
+print("mystery"[6] + "mystery"[1:6] + "mystery"[0])
