@@ -1,0 +1,13 @@
+1) There will be an error message
+2) [1, 1]
+3) [2, 3]
+4) 2
+5) None
+6) [1, 2, 1, 4]
+7) There will be an error message
+8) There will be an error message
+9) Calling check never produces False
+check([]) results in an error
+\verb;check(["a", 1]) results in an error
+10) check([1]) produces None
+\verb;check(["a", 1]) results in an error
