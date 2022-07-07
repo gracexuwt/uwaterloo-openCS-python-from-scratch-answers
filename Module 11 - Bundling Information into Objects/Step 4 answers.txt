@@ -1,0 +1,13 @@
+1) There will be an error message
+2) There will be an error message due to an error in __str__.
+3) There will be an error message
+4) print(isinstance(other, Point))
+print(origin.x == other.x)
+5) 17
+6) one.y = one.y + offset
+self.y = self.y + offset
+7) There will be an error message
+8) 10.0
+9) The definition of between should be indented.
+Each use of first should be replaced by self.
+10) one.between(two).x
