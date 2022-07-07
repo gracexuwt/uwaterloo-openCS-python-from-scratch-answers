@@ -1,0 +1,10 @@
+1) "neg" is printed
+2) "zero" is printed
+3) "pos" is printed
+4) There will be an error message
+5) 6
+6) 1
+7) 12
+8) 29  50 
+9) 60
+10) 10
