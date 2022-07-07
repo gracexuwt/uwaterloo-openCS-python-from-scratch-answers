@@ -1,0 +1,12 @@
+1) 2
+2) More than 3
+3) Select all
+4) 0, 3, "cat"   2, -5, 5.4
+5) 8 and 9    12 and 36
+6) 11
+7) "", "a", "b"    "ba", "ab"     "", "aa", "bb"
+8) 3
+9) For some outputs there will be more than one test.
+For some conditions there will be more than one test.
+10) There should be at least one test for each possible output.
+There should be at least one test for each condition.
